@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NewKotlinApp</string>
+    <string name="zero">0</string>
+    <string name="add">ADD</string>
+
+</resources>
